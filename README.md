@@ -1,0 +1,1 @@
+This is an Operating System Project which explains about File management and security which deals with topics like File Directories, File Allocation Methods, File Access Methods, Free Space Managemnt and Security of File.
